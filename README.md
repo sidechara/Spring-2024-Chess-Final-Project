@@ -2,7 +2,7 @@
  > Authors: [Matthew Cao](https://github.com/sidechara), [Erumise Iriafen](https://github.com/eiriafen), [Derek Lee](https://github.com/dcl28), [Anderson Wang](https://github.com/Anderson123g
 )
 
-## Note: I re-uploaded the code for this project to my own public repository because it was originally privately owned by my university organization.
+Note: I re-uploaded the code for this project to my own public repository because it was originally privately owned by my university organization.
 
 ## Project Description
 A traditional two-player chess game

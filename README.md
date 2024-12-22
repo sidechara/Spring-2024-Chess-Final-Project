@@ -2,6 +2,8 @@
  > Authors: [Matthew Cao](https://github.com/sidechara), [Erumise Iriafen](https://github.com/eiriafen), [Derek Lee](https://github.com/dcl28), [Anderson Wang](https://github.com/Anderson123g
 )
 
+## Note: I re-uploaded the code for this project to my own public repository because it was originally privately owned by my university organization.
+
 ## Project Description
 A traditional two-player chess game
  * [importance] The project in itself is interesting to us because we all enjoy playing chess. We want to recreate the game using code to deepen our understanding of both programming and chess. Through this project, we will also learn how to cooperate and work simultaneously on code using git to strengthen our team working skills in programming.
